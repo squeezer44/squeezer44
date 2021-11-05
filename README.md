@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**squeezer44/squeezer44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Very nice to see you here :-)  
+I hope you're just as fascinated by Open Source, data and Python as I am.  
+I'm always interested to find the story behind the data.  
 
-Here are some ideas to get you started:
+If you want to contact me feel free either to follow this repo (you'll find more news and interesting stuff in the nearer future) or to create a ticket. [It's easy to do that there](https://github.com/squeezer44/squeezer44/issues).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time, I do a lot of literature and do a lot of outdoor sports.  
+
+```
+Data Scientist = {
+    'focus': ['data science', 'python', 'cycling'],
+    'passion':'Connecting people with what they want',
+    'specialty':['dynamic optimizations','find the story behind the data', 'always striving to learn'],
+    'looking_for_employment_opps': true,
+}
+```
