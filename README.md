@@ -11,6 +11,7 @@ In my free time, I'm reading a lot of literature and do a lot of outdoor sports.
 ## You want to contact me?  
 Feel free to do this at: https://github.com/squeezer44/squeezer44/discussions  
 
+### My passion
 ```
 Data Scientist = {
     'focus': ['data science', 'python', 'cycling'],
